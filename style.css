@@ -1,0 +1,92 @@
+#aa1{
+    width: 117px;
+    padding-left:23px; 
+    margin-top: 37px;
+
+}
+.container1{
+    display: flex;
+    background-color: brown;
+    height: 1500px;
+    background: linear-gradient(-36deg, white 8%, brown 0%);
+    margin-left: 29px;
+    margin-top: 30px;
+
+}
+.a1{
+    padding-left: 132px;
+    font-size: 37px;
+    padding-top: 181px;
+    color: antiquewhite;
+}
+.a2{
+    padding-left: 119px;
+    margin-top: -38px;
+}
+#c1{
+    margin-left: 481px;
+}
+.a3{
+    padding-left: 122px;
+    font-size: 18px;
+    margin-top: -25px;
+}
+#c2{
+    margin-left: 467px;
+}
+.placeholder{
+    display: block;
+    margin-left: 133px;
+    width: 542px;
+    height: 50px;
+
+}
+.place{
+    margin-top: 132px;
+}
+
+input{
+    background-color: brown;
+    border: 1px solid white;
+    padding-left: 20px;margin-bottom: 23px;
+}
+::placeholder{
+    color: white;
+}
+.b1{
+    padding-left: 128px;
+}
+.b2{
+    padding-left: 129px;
+    margin-top: -19px;
+}
+#u1{
+    margin-left: 135px;
+}
+#u2{
+    margin-left: 295px;
+}
+.holder {
+    width: 542px;
+    margin-left: 129px;
+    height: 100px;
+}
+
+
+.u1{
+    color: antiquewhite;
+}
+#area1{
+    margin-left: 133px;
+    background-color: brown;
+    font-size: 20px;
+    color: wheat;
+    border: 2px solid;
+}
+.btn {
+    font-size: 32px;
+    width: 437px;
+    height: 80px;
+    margin-left: 134px;
+    margin-top: 51px;
+}
